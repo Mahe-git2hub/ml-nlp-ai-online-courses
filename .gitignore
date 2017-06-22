@@ -605,6 +605,25 @@ luac.out
 # More information here http://doc.crates.io/guide.html#cargotoml-vs-cargolock
 Cargo.lock
 .idea
-data/
+data/**/*.csv
+data/**/**/*.csv
+data/**/**/**/*.csv
+data/**/**/**/**/*.csv
+
+data/**/*.png
+data/**/**/*.png
+data/**/**/**/*.png
+data/**/**/**/**/*.png
+
+data/**/*.jpg
+data/**/**/*.jpg
+data/**/**/**/*.jpg
+data/**/**/**/**/*.jpg
+
+data/**/*.jpeg
+data/**/**/*.jpeg
+data/**/**/**/*.jpeg
+data/**/**/**/**/*.jpeg
+
 
 
